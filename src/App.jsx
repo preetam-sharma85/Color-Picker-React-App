@@ -1,4 +1,4 @@
-import ColorPicker from "./colorPicker.jsx";
+import ColorPicker from "./ColorPicker.jsx";
 
 export const App = () => {
   return (
